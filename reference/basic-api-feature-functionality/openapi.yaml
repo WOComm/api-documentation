@@ -1,0 +1,16 @@
+openapi: 3.0.0
+info:
+  title: Basic API feature functionality
+  version: '1.0'
+  contact:
+    name: Vince Wooll
+    url: www.jomres.net
+    email: vince.wooll@gmail.com
+  license:
+    name: GPL v2
+  description: 'Basic Jomres API Features functionality '
+servers:
+  - url: 'http://localhost:3000'
+paths: {}
+components:
+  schemas: {}

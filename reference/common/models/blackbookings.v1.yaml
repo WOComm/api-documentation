@@ -1,5 +1,0 @@
-title: blackbookings
-type: object
-properties:
-  '':
-    type: string
